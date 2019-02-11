@@ -1,6 +1,8 @@
 Author: Taha UYGUN(tuygun3) with code adapted from Jonathan Tay
 Date: 2/5/2019
 
+This repo locates in https://github.com/hymntaha/assignment1
+
 The assignment code is written in Python 3.6.1. Library dependencies are:
 scikit-learn 0.18.1
 numpy 1.12.1
